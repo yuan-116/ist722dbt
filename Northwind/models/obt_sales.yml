@@ -1,0 +1,6 @@
+version: 2
+
+models:
+  - name: obt_sales
+    description: 
+      Sales fact table combined with customer, employee, product, and date dimensional tables into one big table.
